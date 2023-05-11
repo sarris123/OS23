@@ -1,6 +1,6 @@
 #ifndef _COMMANDS_H
 #define _COMMANDS_H
-י
+
 hi from sarris computer
 #include <unistd.h> 
 #include <stdio.h>
